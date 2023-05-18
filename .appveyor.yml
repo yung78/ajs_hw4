@@ -1,4 +1,4 @@
-image: Visual Studio 2019
+image: windows
 stack: node 16
 branches:
   only:
