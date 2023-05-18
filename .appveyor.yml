@@ -1,4 +1,4 @@
-image: windows
+image: ubuntu
 stack: node 16
 branches:
   only:
