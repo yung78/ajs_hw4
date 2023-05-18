@@ -1,5 +1,5 @@
-image: ubuntu
-stack: node 18
+image: Visual Studio 2023
+stack: node 16
 branches:
   only:
     - main
